@@ -1,6 +1,6 @@
-#简介
+# 简介
 BaiduCDP 是工作业余时间使用C/C++写的一个百度网盘高速下载工具,通过分析百度网盘Web接口API结合aria2实现多线程高速下载,目前只能在Windows平台下使用。
-##构建
+## 构建
 BaiduCDP 依赖第三方库如下
 1.boost
 2.openssl
@@ -9,12 +9,12 @@ BaiduCDP 依赖第三方库如下
 5.libcurl
 6.miniblink
 7.glog
-#####1.获取源代码
+##### 1.获取源代码
 > git clone https://github.com/cool2528/baiduCDP.git
-#####2.下载依赖第三方库
+##### 2.下载依赖第三方库
 > 到这里下载 除boost以外的第三方库
 https://github.com/cool2528/baiduCDP/releases/tag/1.0.0
-#####3.构建环境
+##### 3.构建环境
 > 使用Visual Studio 2015 因为第三库我自己构建的都是 vs2015编译构建的
 #####4.下载UI界面源代码
 > git clone https://github.com/cool2528/BaiduCdpUi.git
