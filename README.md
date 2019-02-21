@@ -14,7 +14,8 @@ BaiduCDP 依赖第三方库如下
 ##### 2.下载依赖第三方库
 > 到这里下载 除boost以外的第三方库
 https://github.com/cool2528/baiduCDP/releases/tag/1.0.0
-至于Node.dll可以去https://github.com/cool2528/baiduCDP/releases/tag/1.0.1成品文件中提取也可以直接下载miniblin编译
+至于Node.dll可以去https://github.com/cool2528/baiduCDP/releases/tag/1.0.1
+成品文件中提取也可以直接下载miniblin编译
 ##### 3.构建环境
 > 使用Visual Studio 2015 因为第三库我自己构建的都是 vs2015编译构建的
 #####4.下载UI界面源代码
