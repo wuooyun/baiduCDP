@@ -18,7 +18,7 @@ https://github.com/cool2528/baiduCDP/releases/tag/1.0.0
 成品文件中提取也可以直接下载miniblin编译
 ##### 3.构建环境
 > 使用Visual Studio 2015 因为第三库我自己构建的都是 vs2015编译构建的
-#####4.下载UI界面源代码
+##### 4.下载UI界面源代码
 > git clone https://github.com/cool2528/BaiduCdpUi.git
 下载下来后新建一个文件夹重命名为`ui`把Ui界面的源码文件拷贝到`ui`文件夹下
 然后把`ui`文件夹拷贝到`BaiduCDP`项目下`Debug`目录下编译生成即可
